@@ -1,0 +1,12 @@
+#!/usr/bin/python
+print "Content-Type: text/html"
+print """\
+<html>
+ <head>
+  <title>Python - Hello World</title>
+ </head>
+ <body>
+  Hello World
+ </body>
+</html>
+"""
